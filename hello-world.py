@@ -1,1 +1,1 @@
-print('Hello World özellikle de denizli')
+print('Hello World ozellikle de denizli')
